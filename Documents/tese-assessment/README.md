@@ -4,7 +4,7 @@ A high-fidelity, multi-step meeting scheduling application built for the **Tese.
 
 ## 🚀 Live Demo
 
-**Vercel URL:** [Insert your Vercel Link Here]
+**Vercel URL:** https://tese-assessment.vercel.app/
 
 ## 🛠️ Tech Stack
 
